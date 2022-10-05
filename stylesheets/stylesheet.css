@@ -1,6 +1,9 @@
-.heads {
-    color: red
+.headings {
+    color: rgb(199, 23, 23)
 }
-.p-background {
+.paris-paragraph {
     background-color: beige
+}
+#london-head {
+    background-color: pink
 }
