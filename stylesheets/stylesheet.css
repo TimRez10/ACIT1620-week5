@@ -1,4 +1,19 @@
-.headings {
+p {
+    border-width: 10px;
+    border-color: lightgreen;
+    border-style: ridge;
+    margin: 5px
+}
+
+span {
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray
+}
+
+
+/* .headings {
     color: rgb(199, 23, 23)
 }
 .paris-paragraph {
@@ -6,4 +21,4 @@
 }
 #london-head {
     background-color: pink
-}
+} */
